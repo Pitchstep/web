@@ -1,4 +1,5 @@
-# 0.82.01
-## MINOR PATCH
-404 page has been made once the error occurs located at web/404.html. The core of this would be at web/.htaccess.
-Version page has been made to keep track of versions. You can visit it at https://sith14.fun/version.md.
+# 1.0.0 DOWNTIME
+## MAJOR UPDATE
+The 1.0.0 update is on its way! The website is currently experiencing downtime while I work on the update. Don't worry! I'll let you know what happens right here!
+
+### No downtime info available yet.
