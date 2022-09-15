@@ -1,4 +1,4 @@
-Important notice about Sith Games: https://secure.sith14.fun/1sith14games
+Important notice about Sith Games: https://secure.sith14.fun/sith14games
 
 # Sith14Fun
 ## 1.0.0 Released
