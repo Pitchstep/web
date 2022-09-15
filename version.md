@@ -1,7 +1,5 @@
-# Sith Games site versions
+Sith14Fun
+v1.0.0
 
-Sith14.FUN
-v1.0.0 Preview
-
-Secure14 (secure.sith14.fun)
-V1.25
+Secure14
+V2.0.0
