@@ -7,8 +7,6 @@
 Sith14Fun is a cool website where you can read stuff about things.
 
 ### Also by Sith Games...
-Secure14 - Secures all links on Sith14Fun.
-Sith14Vids - Social media that is still in development.
-Sith14Navigation - Easy user interface to navigate through Sith14Fun.
+Secure14 - Secures all links on Sith14Fun. More info on https://secure.sith14.fun.
 
-# Copyright © 2022 Sith Games - All rights reserved.
+## Copyright © 2022 Sith Games - All rights reserved.
