@@ -1,4 +1,4 @@
 # Sith14Fun
-## 1.0.0 Public Preview 2
+## 1.0.0 Released
 ### MAJOR UPDATE
-#### Bugfixes, almost finished with the new layouts, pages removed for better connection. Website secured by Secure14 & Google.
+#### Finally!!!!! But the layout isn't done yet...! There will be a big style upgrade in a bit :)
