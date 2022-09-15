@@ -1,3 +1,4 @@
-# 1.0.0 PREVIEW
-## MAJOR UPDATE
-The 1.0.0 update is VERY SOON here! Check it outie now on sith14.fun!
+# Sith14Fun
+## 1.0.0 Public Preview 2
+### MAJOR UPDATE
+####Bugfixes, almost finished with the new layouts, pages removed for better connection. Website secured by Secure14 & Google.
