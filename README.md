@@ -1,7 +1,7 @@
 # Sith14Fun
 
 ### Latest update
-1.0.1 Patch - Removed Sith14Navigation. Working on adding it to the home page.
+1.0.1 Patch - You can now navigate through the site on the home page.
 
 ### Some info
 Sith14Fun is a cool website where you can read stuff about things.
