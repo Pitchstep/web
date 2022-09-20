@@ -1,7 +1,7 @@
 # Sith14Fun 1
 
 ### Latest update
-Sith14Fun 1.1 has arrived. It includes neat features like cool error pages... lol. Enjoy Sith14 1 while it lasts. ;)
+Sith14Fun 1.1 has arrived. It includes neat features like cool error pages... lol.
 
 ### Some info
 Sith14Fun is a cool website where you can read stuff about things.
