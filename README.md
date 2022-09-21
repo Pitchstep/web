@@ -1,7 +1,7 @@
-# Sith14Fun 1
+# Sith14Fun 1.2
 
 ### Latest update
-Sith14Fun 1.1 has arrived. It includes neat features like cool error pages... lol.
+1.2 - Awesome neat stuff. Lots of bugfixes, you can now make an account if you want to and get Verified like on Twitter or something, and yeah fun stuff.
 
 ### Some info
 Sith14Fun is a cool website where you can read stuff about things.
