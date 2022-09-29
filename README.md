@@ -1,7 +1,7 @@
-# SiFT 1
+# SiFT 2
 
 ### Latest update
-SiFT 1.9.6 - Sithcode 10 is now HTML error 400, "Bad request".
+SiFT 2.0 - the aksel update. (increases the version number)
 
 ### Some info
 Sith14Fun is a cool website where you can read stuff about things.
