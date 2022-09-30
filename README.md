@@ -1,7 +1,7 @@
-# SiFT 2
+# SiFT 3
 
 ### Latest update
-SiFT 2.1.2 - Few bugfixes.
+SiFT 3.0 - SiFT 3 has been released! YAY!
 
 ### Some info
 Sith14Fun is a cool website where you can read stuff about things. Always running the latest version of SiFT. ;)
@@ -9,7 +9,10 @@ Sith14Fun is a cool website where you can read stuff about things. Always runnin
 # SiFT Pro
 
 ### Latest update
-SiFT Pro 1.0 - Just got released!
+SiFT Pro - Unreleased. Soon done!
+
+### SiFT Maker status
+Offline - Maintenance.
 
 ### Get access to SiFT Pro by going to https://sift.sith14.fun/pro!
 
