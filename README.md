@@ -1,16 +1,16 @@
 # SiFT 2
 
 ### Latest update
-SiFT 2.0.1 - Minor change.
+SiFT 2.1.2 - Few bugfixes.
 
 ### Some info
-Sith14Fun is a cool website where you can read stuff about things.
+Sith14Fun is a cool website where you can read stuff about things. Always running the latest version of SiFT. ;)
 
-# SiFT 2 Pro
+# SiFT Pro
 
 ### Latest update
-SiFT Pro 2.2 - Bugfixes.
+SiFT Pro 1.0 - Just got released!
 
-### There is currently 0 users that has access to SiFT 2 Pro!
+### Get access to SiFT Pro by going to https://sift.sith14.fun/pro!
 
 ### Copyright © 2022 Sithynator - All rights reserved.
