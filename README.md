@@ -9,10 +9,10 @@ Sith14Fun is a cool website where you can read stuff about things. Always runnin
 # SiFT Pro
 
 ### Latest update
-SiFT Pro - Unreleased. Soon done!
+SiFT Pro 1.0 - Released! Only availanle in: Bolivia & Sudan.
 
 ### SiFT Maker status
-Offline - Maintenance.
+Online
 
 ### Get access to SiFT Pro by going to https://sift.sith14.fun/pro!
 
