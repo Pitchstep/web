@@ -1,7 +1,7 @@
 # SiFT 3
 
 ### Latest update
-SiFT 3.0 - SiFT 3 has been released! YAY!
+SiFT 3.1 - new page... or...?
 
 ### Some info
 Sith14Fun is a cool website where you can read stuff about things. Always running the latest version of SiFT. ;)
