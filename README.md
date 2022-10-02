@@ -6,6 +6,15 @@ SiFT 3.1 - new page... or...?
 ### Some info
 Sith14Fun is a cool website where you can read stuff about things. Always running the latest version of SiFT. ;)
 
+# SiFT SuperShort
+you can make your URLs SUPER SHORT with SiFT!
+
+### Latest update
+SuperShort 1.0 - Just released!
+
+### Important
+URL shortening is currently disabled.
+
 # SiFT Pro
 
 ### Latest update
