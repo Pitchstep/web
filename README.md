@@ -18,7 +18,7 @@ URL shortening is currently disabled.
 # SiFT Pro
 
 ### Latest update
-SiFT Pro 1.0 - Released! Only availanle in: Bolivia & Sudan.
+SiFT Pro 1.0 - Released! Only availanle in: Bolivia, Sudan & The Former Ygoslavian Republic of North Masedonia.
 
 ### SiFT Maker status
 Online
