@@ -1,2 +1,1 @@
-### sith14.fun
-# In development.
+# The website is not finished. Check back later.
