@@ -1,2 +1,2 @@
 ### site version 1.02
-### game version 0
+### (sith14.fun/clicker) clicker version 0
