@@ -1,14 +1,14 @@
 Warning: Not stable for mobile devices yet.
 <style>
   body { 
-    background-color: powderblue; 
+    background-color: black; 
     font-size: 30px;
     text-align: center;
   }
   #button {
     width: 200px;
     height: 200px;
-    background-color: blue;
+    background-color: white;
     border-radius: 100px;
     margin: 0 auto;
     line-height: 200px;
@@ -19,16 +19,16 @@ Warning: Not stable for mobile devices yet.
     margin-top: 50px;
     font-size: 60px;
     font-weight: bold;
-    color: green;
+    color: white;
   }
 </style>
 <div id="score">0</div>
-<div id="button">+2 per click</div>
+<div id="button">+1</div>
 <script>
   let counter = 0;
   
   document.getElementById('button').onclick = () => {
-    counter = counter + 2;
+    counter = counter + 1;
     document.getElementById('score').innerText = counter;
   };
 </script>
