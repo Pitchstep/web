@@ -23,12 +23,12 @@ Warning: Not stable for mobile devices yet.
   }
 </style>
 <div id="score">0</div>
-<div id="button">Click here</div>
+<div id="button">+2 per click</div>
 <script>
   let counter = 0;
   
   document.getElementById('button').onclick = () => {
-    counter = counter + 1;
+    counter = counter + 2;
     document.getElementById('score').innerText = counter;
   };
 </script>
