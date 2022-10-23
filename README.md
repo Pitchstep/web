@@ -1,4 +1,5 @@
-## SITHFUN version 0.2.0 (SF_ALPHA)
+## SITHFUN version 0.3.0 (SF_ALPHA)
 
-### - Added some neat stuff
+### - 404 page now fixed
+### - Few changes
 ### - Bugfixes
