@@ -13,33 +13,33 @@ p {
   <h3 style="text-align: center;">I have birthday in</h3>
 <body>
 
-<!-- Display the countdown timer in an element -->
+<!-- elemt -->
 <p id="demo"></p>
 
 <script>
-// Set the date we're counting down to
+// date time
 var countDownDate = new Date("Jan 4, 2023 00:00:00").getTime();
 
-// Update the count down every 1 second
+// interval
 var x = setInterval(function() {
 
-  // Get today's date and time
+  // gather current date
   var now = new Date().getTime();
 
-  // Find the distance between now and the count down date
+  // gather distance between current and goal
   var distance = countDownDate - now;
 
-  // Time calculations for days, hours, minutes and seconds
+  // some complicated stuff
   var days = Math.floor(distance / (1000 * 60 * 60 * 24));
   var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
   var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-  // Display the result in the element with id="demo"
+  // result :D
   document.getElementById("demo").innerHTML = days + "d " + hours + "h "
   + minutes + "m " + seconds + "s ";
 
-  // If the count down is finished, write some text
+  // text at end
   if (distance < 0) {
     clearInterval(x);
     document.getElementById("demo").innerHTML = "Happy birthday me :D";
