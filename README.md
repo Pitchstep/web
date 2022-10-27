@@ -4,6 +4,6 @@
 ### - Few changes
 ### - Bugfixes
 
-## SITHFUN+ version 0.1.0 (SFP_PRIVATE_SERVER)
+## SITHFUN+ version 0.1.0 (SFP)
 
 ### - Added online functions.
