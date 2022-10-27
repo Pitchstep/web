@@ -1,9 +1,7 @@
-## SITHFUN version 0.3.0 (SF_ALPHA)
+## SITHFUN version 0.3.1 (SF_ALPHA)
 
-### - 404 page now fixed
-### - Few changes
-### - Bugfixes
+### - Added an epic birthday countdown page
 
 ## SITHFUN+ version 0.1.0 (SFP)
 
-### - Added online functions.
+### - Added online functions
