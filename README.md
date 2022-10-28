@@ -1,4 +1,4 @@
-## SITHFUN version 0.3.1 (sith14.fun)
+## SITHFUN 0.3.1 (sith14.fun)
 
 ### - Added an epic birthday countdown page
 ### - 1.0??? never >:)))
