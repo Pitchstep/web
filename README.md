@@ -1,7 +1,8 @@
 ## SITHFUN version 0.3.1 (SF_ALPHA)
 
 ### - Added an epic birthday countdown page
+### - 1.0??? never >:)))
 
-## SITHFUN+ version 0.1.0 (SFP)
+## ALYSSAPOOKIE (AP)
 
-### - Added online functions
+### ALYSSAPOOKIE is a part of SITHFUN. That's why it shows up here!
