@@ -46,3 +46,52 @@ var x = setInterval(function() {
   }
 }, 1000);
 </script>
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+p {
+  text-align: center;
+  font-size: 60px;
+  margin-top: 0px;
+}
+</style>
+</head>
+  <h3 style="text-align: center;">I have birthday in</h3>
+<body>
+
+<!-- elemt -->
+<p id="demo2"></p>
+
+<script>
+// date time
+var countDownDate = new Date("Jan 4, 2023 00:00:00").getTime();
+
+// interval
+var x = setInterval(function() {
+
+  // gather current date
+  var now = new Date().getTime();
+
+  // gather distance between current and goal
+  var distance = countDownDate - now;
+
+  // some complicated stuff
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // result :D
+  document.getElementById("demo2").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+
+  // text at end
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "Happy birthday me :D";
+  }
+}, 1000);
+</script>
+
