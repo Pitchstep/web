@@ -1,3 +1,5 @@
-## SiFT Software 0.3.41 (sith14.fun)
+## SiFT Software 1.0.0 (sith14.fun)
 
-### - Currently testing a new UI! Sorry if some pages take some time to load!
+### ⚡️ Connect to the site in a FLASH with the offline site! https://offline.sith14.fun
+
+### 
