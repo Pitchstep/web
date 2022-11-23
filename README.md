@@ -1,5 +1,9 @@
-## SiFT Web 1.0.0 (sith14.fun)
+## SiFT Web 0.6 (sith14.fun)
 
-### ⚡️ Try out the offline site: https://offline.sith14.fun
+### 0.6 update notes:
+###  
+### ⚡️ A few tweaks!
+### ⚡️ New pages!
+### ⚡️ Bugfixes!
 
-### 
+### :v
