@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Qmail</title>
+    <style>
+      /* CSS styles for the header */
+      header {
+        background-color: #007bff;
+        color: #fff;
+        padding: 10px;
+        text-align: center;
+      }
+
+      /* CSS styles for the navigation menu */
+      nav {
+        background-color: #f1f1f1;
+        display: flex;
+        justify-content: space-between;
+        padding: 10px;
+      }
+
+      /* CSS styles for the main content area */
+      main {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 20px;
+      }
+
+      /* CSS styles for the email list */
+      .email-list {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+      }
+
+      /* CSS styles for individual emails in the list */
+      .email {
+        background-color: #f1f1f1;
+        border: 1px solid #ddd;
+        padding: 10px;
+      }
+
+      /* CSS styles for the footer */
+      footer {
+        background-color: #ddd;
+        padding: 10px;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Email Website</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#">Inbox</a></li>
+        <li><a href="#">Sent</a></li>
+        <li><a href="#">Drafts</a></li>
+      </ul>
+      <form>
+        <input type="text" placeholder="Search...">
+        <button type="submit">Go</button>
+      </form>
+    </nav>
+    <main>
+      <h2>Inbox</h2>
+      <div class="email-list">
+        <div class="email">
+          <h3>Example Subject Line</h3>
+          <p>Sender: example@example.com</p>
+          <p>Received: Feb 24, 2023</p>
+        </div>
+        <div class="email">
+          <h3>Another Subject Line</h3>
+          <p>Sender: another@example.com</p>
+          <p>Received: Feb 23, 2023</p>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <p>&copy; 2023 Qmail. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
