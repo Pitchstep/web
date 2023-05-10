@@ -1,6 +1,6 @@
 ## sith14.fun (1.4)
 
-### 1.4 "Final Update" notes:
+### 1.4 "Final Update Part 1" notes:
 ###  
 ### ⚡️ Removed everything.
 ### ⚡️ Archives in development.
