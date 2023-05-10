@@ -1,0 +1,38 @@
+<h1>New Paragraph (maybe)</h1>
+<p>Hello juste baby. Since you liked the old paragraph so much, I am going to make a new one. IM SERIOUS THIS TIME OK &gt;:(((</p>
+<p>&nbsp;</p>
+<p>SOooooooooooooooooooooooooooooooooooo if you wanna see it then you need to wait :333</p>
+<p>&nbsp;</p>
+<!-- Display the countdown timer in an element -->
+<p id="demo"></p>
+
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("Jan 1, 2024 00:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="demo"
+  document.getElementById("demo").innerHTML = days + "days " + hours + "hours "
+  + minutes + "minutes & " + seconds + "s ";
+
+  // If the count down is finished, write some text
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "Please wait! <3";
+  }
+}, 1000);
+</script>
