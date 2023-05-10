@@ -1,9 +1,9 @@
-## SiFT Web 0.6 (sith14.fun)
+## sith14.fun (1.4)
 
-### 0.6 update notes:
+### 1.4 "Final Update" notes:
 ###  
-### ⚡️ A few tweaks!
-### ⚡️ New pages!
-### ⚡️ Bugfixes!
+### ⚡️ Removed everything.
+### ⚡️ Archives in development.
+### ⚡️ Thank you for being here.
 
-### :v
+### © 2021-2023 sithydev
